@@ -1,0 +1,1 @@
+var json_WAPPS1 = {"type":"FeatureCollection","name":"WAPPS1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"District":"Accra","Title":"Waterapps: Water Information Services for Urban Agriculture (WAPPS)"},"geometry":{"type":"Point","coordinates":[-0.191426832597591,5.591403687147264]}}]}

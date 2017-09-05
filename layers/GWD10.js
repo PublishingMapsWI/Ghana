@@ -1,0 +1,1 @@
+var json_GWD10 = {"type":"FeatureCollection","name":"GWD10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Title":"Greenhouses With Dasuda","ShortTitle":"GWD","Scale":"National"},"geometry":{"type":"Point","coordinates":[-2.193942456579793,11.026535341717729]}}]}

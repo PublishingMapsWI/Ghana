@@ -1,0 +1,1 @@
+var json_GPD6 = {"type":"FeatureCollection","name":"GPD6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"District":"Tema","Title":"NWO UDW Ghana Port Development (GPD)"},"geometry":{"type":"Point","coordinates":[0.01143035451328,5.650189467567897]}}]}

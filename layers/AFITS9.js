@@ -1,0 +1,1 @@
+var json_AFITS9 = {"type":"FeatureCollection","name":"AFITS9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"District":"Begoro","Title":"Access to Finance: Information Transparency System Cocoa Farmers in Ghana (AFITS)"},"geometry":{"type":"Point","coordinates":[-0.338899903866318,6.472392681730431]}}]}
